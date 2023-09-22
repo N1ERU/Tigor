@@ -1,2 +1,2 @@
 # Tigor
-UTS DAT STUCT
+UTS Data Struct
